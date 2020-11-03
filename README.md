@@ -1,4 +1,4 @@
-# Predict-Boston-House-Prices
+# Predict-California-Housing-Prices
 
 Hello everyone, 
 This is my first notebook, where I tried to implement what I've learned.
